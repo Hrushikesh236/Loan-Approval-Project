@@ -99,6 +99,19 @@ The dataset was divided into training and testing sets using an
 
 StandardScaler was applied to scale the features before model training.
 
+
+## Visualization
+<img width="399" height="429" alt="visualization1" src="https://github.com/user-attachments/assets/fcf83ba2-fcef-4970-9228-077a27f143d6" />
+<img width="590" height="469" alt="visualization2" src="https://github.com/user-attachments/assets/a3c0896d-b192-4801-857f-87bebe51bd1d" />
+<img width="584" height="459" alt="visualization3" src="https://github.com/user-attachments/assets/04f2fc16-f2d7-4e26-a8b6-7c3b6e2b4a60" />
+<img width="581" height="456" alt="visualization4" src="https://github.com/user-attachments/assets/20e6be6b-ff6c-44a8-b9f8-536194aa3097" />
+<img width="596" height="456" alt="visualization5" src="https://github.com/user-attachments/assets/e7b4335e-11b2-472a-bc7c-09c91ffb99a7" />
+<img width="640" height="487" alt="visualization6" src="https://github.com/user-attachments/assets/575c7b82-7861-4d9a-8bc3-70c39c71ff9d" />
+<img width="573" height="441" alt="visualization7" src="https://github.com/user-attachments/assets/92616ae5-64da-45d5-bc9b-2f15eb604979" />
+<img width="1111" height="755" alt="visualization8" src="https://github.com/user-attachments/assets/def7c25a-7847-4f33-9585-f056902c3d75" />
+
+
+
 ---
 
 ## 🤖 Models Used
